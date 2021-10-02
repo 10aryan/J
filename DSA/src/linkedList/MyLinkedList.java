@@ -72,8 +72,6 @@ public	void add(E data) {
 		this.data = data;
 		next = null;
 		
-		
 		}
 	}
-	
 }

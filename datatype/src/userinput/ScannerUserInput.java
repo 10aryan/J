@@ -11,5 +11,4 @@ public class ScannerUserInput {
 		float simpleIntrest = principal * rate * time / 100;
 		System.out.println("the simple intrest is " + simpleIntrest);
 	}
-
 }

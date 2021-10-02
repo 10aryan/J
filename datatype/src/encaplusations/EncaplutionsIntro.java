@@ -10,5 +10,4 @@ public class EncaplutionsIntro {
 		obj.setAge(18);
 		System.out.println(obj.getAge());
 	}
-
 }
