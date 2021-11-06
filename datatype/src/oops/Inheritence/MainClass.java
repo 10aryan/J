@@ -5,7 +5,12 @@ package oops.Inheritence;
 public class MainClass {
 
 	public static void main(String[] args) {
+		/*When one object acquires all the properties and behaviors of a parent object, it is known as inheritance. 
+		 It provides code reusability. It is used to achieve runtime polymorphism.
+		 */
 		Teacher t1 = new Teacher("Santosh");
+		t1.name = "Santosh";
+		t1.teach();
 //		t.name = "Mr.Sm";
 //		
 //		t.eat();

@@ -12,7 +12,7 @@ public class Student {
 
 		public void setAge(int age) {
 			if(age>20) {
-				System.out.println("You are too old to e student in this school");
+				System.out.println("You are too old to become student in this school");
 			}else {
 			this.age = age;
 			}

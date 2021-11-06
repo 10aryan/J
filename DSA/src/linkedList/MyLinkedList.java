@@ -1,7 +1,7 @@
 package linkedList;
 
 public class MyLinkedList<E> {
-
+	
 	Node<E> head;
 public	void add(E data) {
 		Node<E> toAdd = new Node<E>(data);

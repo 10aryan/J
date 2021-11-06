@@ -43,8 +43,6 @@ public class SlidingWindow {
 		for(int x: ans) {
 			System.out.print(x+" ");
 		}
-		
-
 	}
 
 }

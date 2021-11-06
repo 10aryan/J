@@ -9,6 +9,8 @@ public class NewStack {
 	stack.push(12);
 	stack.push(24);
 	stack.push(23);
+	stack.push(349);
+	stack.push(328);
 	int popped = stack.pop();
 	
 	System.out.println(popped);
